@@ -1,10 +1,13 @@
 Aim:
+
 To simulate and synthesis half adder using vivado.
 
 Apparatus Required:
+
 vivado 2023.2 software.
 
 Procedure:
+
 STEP:1 Start the vivado software, Select and Name the New project.
 
 STEP:2 Select the device family, device, package and speed.
@@ -43,4 +46,8 @@ endmodule
 Output:
 
 ![image](https://github.com/priyangi123/HALF_ADDER/assets/165141104/9bcf556a-6ae7-4c5b-80af-878c655926c8)
+
+Result:
+
+Thus the verilog program for half adder has been simulated and verified successfully.
 
